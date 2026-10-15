@@ -1,1 +1,1 @@
-# Sistemes-Operatius-de-Xarxa
+# Sistemes-Operatius-en-Xarxa
